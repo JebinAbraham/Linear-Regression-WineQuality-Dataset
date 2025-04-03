@@ -1,6 +1,6 @@
-# Linear Regression on Wine Quality Dataset
+# Linear Regression on Wine Quality and MT Cars Dataset
 
-This project applies Linear Regression on the Wine Quality dataset obtained from the UCI Machine Learning Repository. It includes feature selection, data visualization, and model evaluation.
+This project applies Linear Regression on the Wine Quality  dataset obtained from the UCI Machine Learning Repository and MT Cars Dataset. It includes feature selection, data visualization, and model evaluation.
 
 ## 📂 Project Structure
 - `Linear-Regression.ipynb` - The main Jupyter Notebook containing the analysis.
